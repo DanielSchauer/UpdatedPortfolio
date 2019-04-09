@@ -1,7 +1,23 @@
 body {
-    background-color: beige;
+    /* background-color: beige; */
     color: black;
+    background: url("../assets/Cleveland-Skyline.jpg") no-repeat;
+    background-size: contain;
+    background-color: white;
 }
+
 #main{
     padding-bottom: 10px;
+}
+
+.column{
+    padding-right: 20px;
+}
+
+nav{
+    background-color: gold;
+}
+
+footer {
+    background-color: gold;
 }
